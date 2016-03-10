@@ -32,3 +32,57 @@ dismathportfolio-MariAmon created by Classroom for GitHub
 <LI>In performing mathematical method, one must always follow the properprocedure which is to perform basis stap first before proceeding to the main process.</LI>
 <LI>Recursive statements are introduced.</LI>
 </UL>
+#Week 5
+<UL>
+<LI>Recursive Algorithm, being discussed, is a step by step process of reducing a problem to an instance of the same problem with smaller input.</LI>
+<LI>Programs of factorial and of power rule were presented as examples of recursive algorithm.</LI>
+<LI>Program Verification was discussed and how to present proof of correctness of programs with the use of rules of inference.</LI>
+<LI>A program is only considered correct if it produces correct output for every possible input.</LI>
+<LI>To prove correctness of a program, one must (1)Show Partial Correctness of program and (2) Show that program always terminates.</LI>
+<LI>Partial correctness can be done through the use of Hoare Triple, p{s}q, wherein we assume that p is true, then we substitute p to s to show/prove truth value of q.</LI>
+<LI>Program correctness can also be proven through the rules of inference: Composition rule, conditional statement and if-else statement.</LI>
+<LI>Zeno's Paradox and Power Series were introduced.</LI>
+<LI>The formulation of the summation of power series or the Geometric Progression was taught.</LI>
+<BR> summation of ax^n=a1/(1-r)
+<LI>Set, as then discussed, is an unordered collection of distinct objects.</LI>
+<LI>Sets can be presented using Set builder Notation.<LI>
+<BR>{x|some property x satisies}
+<LI>There are different relationship between sets.
+<UL><LI>Union(or)</LI><LI>Intersection(and)</LI><LI>Difference</LI><LI>Symmetric Difference</LI></UL>
+</UL>
+<LI>I learned that if all elements of Set A are found in B, then set A is a subset of B.</LI>
+</UL>
+#Week 6
+<UL>
+<LI>Cardinality was discussed which is is a measure of the number of elements of the set denoted by {A}.</LI>
+<LI>Functions was introduced. This is relationship between a set of inputs and a set of permissible outputs given that each input is has exactly one output.</LI>
+<LI>I learned the difference between the range-the set of outputs, and the codomain-the set of all possible outputs, of a function.</LI>
+<LI>Different types of Functions:
+<UL>
+<LI>One-To-One Function
+<BR>If and only if f(a)=f(b) implies that a=b for all a and b in the domain of f.</LI>
+<LI>Onto Function<
+<BR>If the range and domain are equal and that every member of the codomain is the image of some element of the domain.</LI>
+<LI>Bijection
+If it is both one-to-one and onto.</LI>
+</UL>
+</LI>
+</UL>
+#Week 7
+No classes
+#Week 8
+<UL>
+<LI>We discussed Algorithms which is a set of rules to be followed in problem-solving by a computer.</LI>
+<LI>The use of Input and Output is introduced.</LI>
+<LI>There are two procedure in searching location of an element discussed:
+<BR>input: { A1, A2, ..., An }
+<BR>output: Aindex { found: {1, ..., n} ; else: -1
+<UL><LI>Linear Search-one by one search</LI>
+<LI>Binary Search-divides the set into two and compare them until the first and last element is the same.</LI></UL>
+</LI>
+<LI>There are also two types of sorting(increasing order):
+<UL><LI>Bubble Sort-the highest value element bubbles up the list.</LI>
+<LI>Insertion Sort-placing in order and inserting the element into the already sorted part of the set.</LI></UL>
+</UL>
+<LI>Greedy Algorithm in obtaining the least number of coins as change was introduced.</LI> 
+</UL>
