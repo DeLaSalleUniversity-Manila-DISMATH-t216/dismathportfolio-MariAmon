@@ -42,11 +42,11 @@ dismathportfolio-MariAmon created by Classroom for GitHub
 <LI>Partial correctness can be done through the use of Hoare Triple, p{s}q, wherein we assume that p is true, then we substitute p to s to show/prove truth value of q.</LI>
 <LI>Program correctness can also be proven through the rules of inference: Composition rule, conditional statement and if-else statement.</LI>
 <LI>Zeno's Paradox and Power Series were introduced.</LI>
-<LI>The formulation of the summation of power series or the Geometric Progression was taught.</LI>
-<BR> summation of ax^n=a1/(1-r)
+<LI>The formulation of the summation of power series or the Geometric Progression was taught.>
+  <UL><LI>summation of ax^n=a1/(1-r)</LI></UL>  </LI
 <LI>Set, as then discussed, is an unordered collection of distinct objects.</LI>
-<LI>Sets can be presented using Set builder Notation.<LI>
-<BR>{x|some property x satisies}
+<LI>Sets can be presented using Set builder Notation.
+  <UL><LI>{x|some property x satisies}</LI></UL>  </LI>
 <LI>There are different relationship between sets.
 <UL><LI>Union(or)</LI><LI>Intersection(and)</LI><LI>Difference</LI><LI>Symmetric Difference</LI></UL>
 </UL>
@@ -83,6 +83,6 @@ No classes
 <LI>There are also two types of sorting(increasing order):
 <UL><LI>Bubble Sort-the highest value element bubbles up the list.</LI>
 <LI>Insertion Sort-placing in order and inserting the element into the already sorted part of the set.</LI></UL>
-</UL>
+</LI>
 <LI>Greedy Algorithm in obtaining the least number of coins as change was introduced.</LI> 
 </UL>
