@@ -1,4 +1,4 @@
-# dismathportfolio-MariAmon
+# dismathportfolio-MariChristineAmon-SectionEL
 dismathportfolio-MariAmon created by Classroom for GitHub
 <H1>Week 1</H1>
 <UL>
@@ -73,16 +73,23 @@ No classes
 #Week 8
 <UL>
 <LI>We discussed Algorithms which is a set of rules to be followed in problem-solving by a computer.</LI>
-<LI>The use of Input and Output is introduced.</LI>
-<LI>There are two procedure in searching location of an element discussed:
+<LI>Pseudocodes are a high-level desciprtion of an algorithm that uses structural convention of a programming language, but is intended for human reading.</LI>
+<LI>Properties of a psuedocode: Input and Output (or result)</LI>
+<LI>There are two procedure in searching the location of an element discussed:
 <BR>input: { A1, A2, ..., An }
-<BR>output: Aindex { found: {1, ..., n} ; else: -1
+<BR>output: index { found: {1, ..., n} ; else: -1 }
 <UL><LI>Linear Search-one by one search</LI>
-<LI>Binary Search-divides the set into two and compare them until the first and last element is the same.</LI></UL>
+<LI>Binary Search-(precondition: elements are in increasing order); continuously divides the set into two and compare them until the first and last element is the same; then compares equaliy between the last element and the actual number being located.</LI></UL>
 </LI>
-<LI>There are also two types of sorting(increasing order):
-<UL><LI>Bubble Sort-the highest value element bubbles up the list.</LI>
-<LI>Insertion Sort-placing in order and inserting the element into the already sorted part of the set.</LI></UL>
+</UL>
+#Week 9
+<UL>
+<LI>Sorting-arranging elements of a list in increasing order</LI>
+<LI>There are two types of sorting algorithms:
+<UL><LI>Bubble Sort-the highest value element bubbles up the list; this algorithm uses two for-loops that compares an element with the rest of the elements/numbers.</LI>
+<LI>Insertion Sort-first element is always considered sorted; this algorithn places an element in order by comparing and inserting it into the already sorted elements of the set.</LI></UL>
 </LI>
 <LI>Greedy Algorithm in obtaining the least number of coins as change was introduced.</LI> 
+<LI>Greedy Algorithm works by providing a set of denomination arranged in increasing order. The program continuously divides the entered value(amount of money) by the first element in the list until it can no longer do so, and that will be the time that the program shall proceed to the next element in the denomination list.</LI> 
 </UL>
+#Week 10
