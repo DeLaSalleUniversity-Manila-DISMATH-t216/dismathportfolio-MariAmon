@@ -93,3 +93,5 @@ No classes
 <LI>Greedy Algorithm works by providing a set of denomination arranged in increasing order. The program continuously divides the entered value(amount of money) by the first element in the list until it can no longer do so, and that will be the time that the program shall proceed to the next element in the denomination list.</LI> 
 </UL>
 #Week 10
+#Week 12
+*No Classes
