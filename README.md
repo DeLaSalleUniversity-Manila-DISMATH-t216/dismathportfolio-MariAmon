@@ -93,5 +93,49 @@ No classes
 <LI>Greedy Algorithm works by providing a set of denomination arranged in increasing order. The program continuously divides the entered value(amount of money) by the first element in the list until it can no longer do so, and that will be the time that the program shall proceed to the next element in the denomination list.</LI> 
 </UL>
 #Week 10
+<UL>
+<LI>Growth of Function is an approximation or a limit of a given function; also known as Big-O notation (upper-boundary).</LI>
+<LI>Big-O Notation: |f(x)| <= C|g(x)| whenever x>k , C and k are called 'witnesses'</LI>
+<LI>Other kinds of approximations are: <BR>Big-Omega Notation (lower-boundary): C|g(x)| <= |f(x)| whenverr x>k. <BR> Big-Theta Notation (both upper and lower boundary): C|g(x)| <= |f(x)| <= C|g(x)|. </LI>
+<LI>Big-Theta Notation is also described as Time Complexity of a program or the nummber of comparisons made.</LI>
+<LI>Complexity of Algorithms (from lowest to highest)
+<UL><LI>Constant Complexity</LI>
+    <LI>Logarithm Complexity</LI>
+    <LI>Linear Complexity</LI>
+    <LI>n log n Complexity</LI>
+    <LI>Polynomial Complexity</LI>
+    <LI>Exponential Complexity</LI>
+    <LI>Factorial Complexity</LI></UL></LI>
+<LI>Cryptology is the study of secret messages.<BR>ex. Ceasar Cipher: f(p) = (p+3) mod 26</LI>
+</UL>
+#Week 11
+<UL>
+<LI>Graph Theory is introduced. It is a structure that consists of vertices and edges; connection.</LI>
+<LI>Degree-(of a vertex) number of edges incident with it. *loop-is counted as degree 2.</LI>
+<LI>Handshaking Theorem: 2e = Sum[deg(v)] where e is the total number of edges in the graph.</LI>
+<LI>subgraph - a section that is part of a bigger graph; proper subgraph - a subgraph that is not equal to its 'mother' graph</LI>
+* A graph is called connected if there are no isolated nodes.
+* Two types of walk: closed - forms a circuit ; open - forms a path. 
+* Euler Circuit is a (closed) walk wherein it covers all edges exactly once and goes back to the vertex where it started; exists whenever every vertex in the graph has even degree.
+* Euler Path is a (open) walk where all edges are covered once; exists whenever there are exactly two vertices with odd degree.
+* Hamilton Circuit a (closed) walk where all nodes are covered once.
+* Hamilton path an open walk where all nodes are covered.
+* A good example of a Hamilton circuit and path is a dodecahedrom.
+* Pendant is a one degree node; whenever one appears a graph, a circuit will never be formed; whenever three appears, there can neither be a path nor a circuit.
+* Adjacency Matrix - to put a graph into a matrix by identifying presence of an edge between vertices (denotation: 1 / 0)
+* Isomorphism equivalence betwween two graphs 
+* Two graphs are isomorphic whenever:
+   - equal nodes amd edges
+   - one-to-one correspondence between vertices of the two graphs
+* Planar graph is a graph where no edges intersect.
+* Euler Formula: r = e - v + 2, where r is the number of regions formed by a graph.
+* Kuratowski's Theorem states that a graph is non-planar if and only if it contains a subgraph homeomorphic to K(3,3) and K(5).
+</UL>
 #Week 12
 *No Classes
+#Week 13
+* Elementary subdivisions - a planar graph will always obtain a planar graph even when a node or an edge is removed and reconnected with a new element. 
+* Homeomorphic graphs are graphs that can be obtained from the same graph by a sequence of elementary subdivisions.
+   - ex. Peterseb graph is homeomorphic to K(3,3).
+* An application of graphs used in coloring maps is the Color Graph.
+* 
