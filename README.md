@@ -109,6 +109,9 @@ No classes
 <LI>Cryptology is the study of secret messages.<BR>ex. Ceasar Cipher: f(p) = (p+3) mod 26</LI>
 </UL>
 #Week 11
+* No Classes
+
+#Week 12
 * Graph Theory is introduced. It is a structure that consists of vertices and edges; connection.
 * Degree-(of a vertex) number of edges incident with it. *loop-is counted as degree 2.
 * Handshaking Theorem: 2e = Sum[deg(v)] where e is the total number of edges in the graph.
@@ -130,9 +133,7 @@ No classes
 * Planar graph is a graph where no edges intersect.
 * Euler Formula: r = e - v + 2, where r is the number of regions formed by a graph.
 * Kuratowski's Theorem states that a graph is non-planar if and only if it contains a subgraph homeomorphic to K(3,3) and K(5).
-</UL>
-#Week 12
-*No Classes
+
 #Week 13
 * Elementary subdivisions - a planar graph will always obtain a planar graph even when a node or an edge is removed and reconnected with a new element. 
 * Homeomorphic graphs are graphs that can be obtained from the same graph by a sequence of elementary subdivisions.
