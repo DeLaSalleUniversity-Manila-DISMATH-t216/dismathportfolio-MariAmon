@@ -153,3 +153,21 @@ No classes
 * Finite Automaton provides the simplest model of computing device, based on the concept of states.
 * Lexical analysis is the process where the stream of characters making up the source program is read from left to right and grouped into tokens.
 * Finite-state machine: M = {S, I, O, f, g, s(0)} with S-states, I-input, O-output, f-function, g-function output and s(0)-initial state.
+
+#Additional readings
+* Tree traversal is to visit every vertex of an ordered rooted tree.
+* Spanning tree - subgraph of simple graph G that is a tree containing every vertex of G.
+* A simple graph is connected iff it has a spanning tree.
+* Minimum spanning tree - spanning tree that has the smallest possible sum of weights of its edges.
+* Relations - relationship of elements between two sets.
+* Binary relation from A to B is a subset of A x B.
+* Reflexive relation - if (a,a) is an element of R (relation) for every element a in set A.
+* Symmetric relation - if (b,a) is an element of R whenever (a,b) is an element of R, for all a,b in set A; antisymmetric - if a = b.
+* Transitive relation- whenever (a,b) and (b,c) are elements of R, then (a.c) is an element of R; a,b,c are in set A.
+* Composite (S o R) - (a,b) and (b,c) such that (a,c), from sets A, B, C.
+* n-ary relation - relationship of elements from more than two sets; A1 x A2 x An where A - domains and n - degree. 
+* Equivalence relation - a relation that is reflexive, symmetric and transitive.
+* Equivalencee class (of a) - set of all elements that are related to an element a of A.
+* Partial ordering - A reflective, antisymmetric and transitive relation on a set S; poset - partially ordered set.
+* Lexicographic order - based in the ordering of the letters in the alphabet
+* Lattices - a partially unordered set in which every pair of elements has both a least upper bound and a greatest lower bound.
